@@ -1,0 +1,8 @@
+Jiffy
+======
+
+This crawls the filesystem for media files and indexes them. Retrieval is done separately and presented through dmenu.
+
+Status
+=======
+Complete. However, to address a few issues, it is still being worked on.
